@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="astgraphplot",
-    version="1.1",
+    version="1.2",
     author="MariaChizhova",
     author_email="mariachizhova17@gmail.com",
     description="Advanced python homework",

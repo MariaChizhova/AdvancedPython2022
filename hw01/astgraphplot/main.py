@@ -1,6 +1,6 @@
 import networkx as nx
 import ast
-from hw01.astgraphplot.AstGraphGenerator import AstGraphGenerator
+from astgraphplot.AstGraphGenerator import AstGraphGenerator
 import os
 
 
