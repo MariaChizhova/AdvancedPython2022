@@ -1,0 +1,11 @@
+Received "Hello" on 2022-03-09 19:02:03.100433
+Processed "uryyb" on 2022-03-09 19:02:08.230220
+Received "Hi" on 2022-03-09 19:02:10.257757
+Processed "uv" on 2022-03-09 19:02:15.264217
+Received "How are you" on 2022-03-09 19:02:18.443362
+Processed "ubj ner lbh" on 2022-03-09 19:02:23.446155
+Received "i'm good. And you?" on 2022-03-09 19:02:32.227631
+Processed "v'z tbbq. naq lbh?" on 2022-03-09 19:02:37.233637
+Received "I'm too" on 2022-03-09 19:02:41.058795
+Processed "v'z gbb" on 2022-03-09 19:02:46.064931
+Exit on 2022-03-09 19:02:48.308941

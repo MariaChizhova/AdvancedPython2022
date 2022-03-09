@@ -1,0 +1,96 @@
+Running with 1 threads:
+	Time: 0.09294867515563965 seconds
+	Result: 1.0007851925466296
+Running with 1 processes:
+	Time: 0.262723445892334 seconds
+	Result: 1.0007851925466296
+Running with 2 threads:
+	Time: 0.0019538402557373047 seconds
+	Result: 1.0007851925466305
+Running with 2 processes:
+	Time: 0.018004655838012695 seconds
+	Result: 1.0007851925466305
+Running with 3 threads:
+	Time: 0.002162933349609375 seconds
+	Result: 1.0007827251465446
+Running with 3 processes:
+	Time: 0.02471017837524414 seconds
+	Result: 1.0007827251465446
+Running with 4 threads:
+	Time: 0.002730131149291992 seconds
+	Result: 1.00078519254663
+Running with 4 processes:
+	Time: 0.02461552619934082 seconds
+	Result: 1.00078519254663
+Running with 5 threads:
+	Time: 0.0009319782257080078 seconds
+	Result: 1.0007851925466305
+Running with 5 processes:
+	Time: 0.011260509490966797 seconds
+	Result: 1.0007851925466305
+Running with 6 threads:
+	Time: 0.00091552734375 seconds
+	Result: 1.0007605186370956
+Running with 6 processes:
+	Time: 0.01310420036315918 seconds
+	Result: 1.0007605186370954
+Running with 7 threads:
+	Time: 0.0010237693786621094 seconds
+	Result: 1.0007333775709961
+Running with 7 processes:
+	Time: 0.015227079391479492 seconds
+	Result: 1.0007333775709961
+Running with 8 threads:
+	Time: 0.0008556842803955078 seconds
+	Result: 1.0007851925466307
+Running with 8 processes:
+	Time: 0.014527559280395508 seconds
+	Result: 1.0007851925466307
+Running with 9 threads:
+	Time: 0.0008997917175292969 seconds
+	Result: 1.000782725146545
+Running with 9 processes:
+	Time: 0.014291524887084961 seconds
+	Result: 1.0007827251465453
+Running with 10 threads:
+	Time: 0.0009050369262695312 seconds
+	Result: 1.0007851925466307
+Running with 10 processes:
+	Time: 0.012862920761108398 seconds
+	Result: 1.0007851925466307
+Running with 11 threads:
+	Time: 0.0010690689086914062 seconds
+	Result: 1.000649488555489
+Running with 11 processes:
+	Time: 0.010990142822265625 seconds
+	Result: 1.000649488555489
+Running with 12 threads:
+	Time: 0.0010094642639160156 seconds
+	Result: 1.0007605186370954
+Running with 12 processes:
+	Time: 0.022229433059692383 seconds
+	Result: 1.0007605186370954
+Running with 13 threads:
+	Time: 0.0012543201446533203 seconds
+	Result: 1.0005927414340317
+Running with 13 processes:
+	Time: 0.01914501190185547 seconds
+	Result: 1.0005927414340317
+Running with 14 threads:
+	Time: 0.0010714530944824219 seconds
+	Result: 1.0007333775709963
+Running with 14 processes:
+	Time: 0.02876877784729004 seconds
+	Result: 1.0007333775709966
+Running with 15 threads:
+	Time: 0.001234292984008789 seconds
+	Result: 1.000649488555489
+Running with 15 processes:
+	Time: 0.02768850326538086 seconds
+	Result: 1.000649488555489
+Running with 16 threads:
+	Time: 0.00128173828125 seconds
+	Result: 1.0006963674220357
+Running with 16 processes:
+	Time: 0.019166946411132812 seconds
+	Result: 1.0006963674220357
