@@ -8,14 +8,16 @@ import sys
 URL = "https://picsum.photos/700"
 
 
+async def helper(filename, session):
+    async with session.get(URL) as response:
+        if response.status == 200:
+            async with aiofiles.open(filename, mode='bw') as file:
+                await file.write(await response.read())
+
+
 async def load_images(images_number: int, path: str):
     async with aiohttp.ClientSession() as session:
-        for i in range(images_number):
-            filename = f"{path}/image_{i + 1}.png"
-            async with session.get(URL) as response:
-                if response.status == 200:
-                    async with aiofiles.open(filename, mode='bw') as file:
-                        await file.write(await response.read())
+        await asyncio.gather(*(helper(f"{path}/image_{i + 1}.png", session) for i in range(images_number)))
 
 
 def create_arg_parser():
